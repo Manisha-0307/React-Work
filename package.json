@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is course by Akshay Saini Tutor",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manisha-0307/React-Work.git"
+  },
+  "keywords": [],
+  "author": "Manisha Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manisha-0307/React-Work/issues"
+  },
+  "homepage": "https://github.com/Manisha-0307/React-Work#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
